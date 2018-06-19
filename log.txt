@@ -1,0 +1,103 @@
+Command run movie-thisCommand run: movie-this
+Command run: movie-this
+Command run: spotify-this-song
+Command run: spotify-this-song
+Command run: movie-this
+Command run: my-tweets
+Command run: movie-this
+Command run: spotify-this-song
+Command run: my-tweets
+Command run: movie-this
+Command run: movie-this
+ The Title of the Movie is: Mr. Nobody
+ The Rotten Tomatoes Rating is: 66%
+ The country is was produce is: Belgium, Germany, Canada, France, USA, UK
+ The language of the movie is: English, Mohawk
+ The IMDB rating is: 7.9
+ The release year was: 2009
+ The plot of the movie is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ The actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Command run: movie-this
+ The Title of the Movie is: Rocky V
+ The release year was: 1990
+ The Rotten Tomatoes Rating is: 27%
+ The IMDB rating is: 5.2
+ The country is was produce is: USA
+ The language of the movie is: English, Italian
+ The actors are: Sylvester Stallone, Talia Shire, Burt Young, Sage Stallone
+ The plot of the movie is: Reluctantly retired from boxing, and back from riches to rags, Rocky takes on a new protege who betrays him, as the champ's son must adjust to his family's new life after bankruptcy.
+Command run: spotify-this-song
+Command run: spotify-this-song
+ The song name is: La bikina - Inspirado en "Coco"
+ The album of the song is: Coco (Original Motion Picture Soundtrack)
+ The artist is: Karol Sevilla
+ A preview link of the song can be found in: https://open.spotify.com/track/6dlqAP1A3eTXz6n3YAb9cx
+ The song name is: La Bikina - En Vivo
+ A preview link of the song can be found in: https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi
+ The artist is: Luis Miguel
+ The album of the song is: Vivo
+ A preview link of the song can be found in: https://open.spotify.com/track/5qQ4Y02GdU2l1tftLLnEpq
+ The album of the song is: 20 Grandes Éxitos de la Canción Mexicana, Vol. 1
+ The artist is: Voces Rancheras
+ The song name is: La Bikina
+ The song name is: La Bikina
+ The artist is: Guitarras de Luna
+ The album of the song is: Grandes Exitos del Sol
+ A preview link of the song can be found in: https://open.spotify.com/track/4ORI3FZR56vIdmC1III2yJ
+ The artist is: Mariachi Vargas De Tecalitlan
+ A preview link of the song can be found in: https://open.spotify.com/track/5BtUPf6sUMb1rozU584afk
+ The album of the song is: Sinfónico
+ The song name is: La Bikina
+Command run: spotify-this-song
+ The song name is: The Sign
+ The album of the song is: The Sign (US Album) [Remastered]
+ A preview link of the song can be found in: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+ The album of the song is: The Sign (US Album) [Remastered]
+ A preview link of the song can be found in: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+ The song name is: All That She Wants
+ The artist is: Ace of Base
+ The album of the song is: Greatest Hits
+ The artist is: Ace of Base
+ The song name is: The Sign
+ A preview link of the song can be found in: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+ The artist is: Ace of Base
+ The song name is: Don't Turn Around
+ The album of the song is: The Sign (US Album) [Remastered]
+ A preview link of the song can be found in: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+ The artist is: Ace of Base
+ The song name is: Living in Danger
+ A preview link of the song can be found in: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+ The album of the song is: The Sign (US Album) [Remastered]
+ The artist is: Ace of Base
+Command run: my-tweets
+Command run: my-tweets
+ Created in: Tue Jun 19 04:55:09 +0000 2018
+ Tweet: @joserra_espn Vamos coño si yo hubiera pensado como ustedes LuisMi ahorita haría puras novelas
+ Created in: Tue Jun 19 04:54:27 +0000 2018
+ Tweet: @SoyIuismiguel Recuerda que yo lo hice. Soy el @RicardoLaVolpeG de la música
+ Created in: Tue Jun 19 04:47:15 +0000 2018
+ Created in: Tue Jun 19 04:46:38 +0000 2018
+ Tweet: @Faitelson_ESPN Se me hace que falta que te reprenda como lo hago con LuisMi
+ Created in: Tue Jun 19 04:45:14 +0000 2018
+ Tweet: @MerchanTomala Carajo le hace más mulata le dije a mi muchacho
+ Tweet: @justinbieber no te hace falta un representante? Siento que te va a cambiar la voz pronto.
+ Created in: Tue Jun 19 04:44:28 +0000 2018
+ Tweet: @ManuelHVV Lo mismo le decía a LuisMi
+ Tweet: @danydrugs Es que luego me cortan la mano si me encuentran.
+ Created in: Tue Jun 19 04:42:01 +0000 2018
+ Tweet: Algún buen lugar que recomienden en Mty para rasurarme el bigote carajo?
+ Created in: Tue Jun 19 04:39:31 +0000 2018
+ Created in: Tue Jun 19 04:41:44 +0000 2018
+ Tweet: @BrazilStat Carajo coño yo pensé  que era el único
+ Tweet: Alguien con buena voz disponible? #semeacaboLuisMi
+ Tweet: Si fuera entrenador de fútbol sería el @tuca_ferretti
+ Created in: Tue Jun 19 04:34:35 +0000 2018
+ Created in: Tue Jun 19 04:38:22 +0000 2018
+ Created in: Tue Jun 19 04:33:18 +0000 2018
+ Tweet: Ya pensaron que van hacer cuando ya no salga en la serie?
+ Created in: Tue Jun 19 04:32:58 +0000 2018
+ Tweet: Quien será mas malo yo o la carne de puerco en domingo?
+ Tweet: Estos jugadores de @miseleccionmx  se ve que tuvieron padres como yo
+ Tweet: En el Día del padre siempre espero el regalo de LuisMi. O será que no me ama?
+ Created in: Mon Jun 18 15:08:30 +0000 2018
+ Created in: Mon Jun 18 15:08:09 +0000 2018
